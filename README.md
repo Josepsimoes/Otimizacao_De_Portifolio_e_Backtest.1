@@ -4,6 +4,6 @@ O codigo possui o objetivo de otimizar um portifolio de investimentos em renda v
 O codigo deve:
 1.calcular a matriz de covariancia entre os ativos pre selecionados
 2.calcular os retornos estimados de cada ativo
-3.calcular o peso ideal de cada ativo no portifolio
+3.calcular o peso ideal de cada ativo no portifolio utilizando o método de fronteira de eficiencia
 4.realizar um backtest deste portifolio em um determinado período
 5.disponibilizar um relatório e gráficos interativos da performance do portifolio no backtest.
