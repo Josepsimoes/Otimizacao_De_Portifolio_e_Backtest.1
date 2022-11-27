@@ -7,3 +7,4 @@ O codigo deve:
 3.calcular o peso ideal de cada ativo no portifolio utilizando o método de fronteira de eficiencia
 4.realizar um backtest deste portifolio em um determinado período
 5.disponibilizar um relatório e gráficos interativos da performance do portifolio no backtest.
+...
